@@ -79,11 +79,11 @@ A autonomia estimada é de aproximadamente **5,87 horas**.
 
 ### Cenário seguro
 
-![Execução do cenário seguro](execucao_cenario_seguro.png)
+![Execução do cenário seguro](images/execucao_cenario_seguro.png)
 
 ### Cenário com falha
 
-![Execução do cenário com falha](execucao_cenario_falha.png)
+![Execução do cenário com falha](images/execucao_cenario_falha.png)
 
 ## Arquivos do projeto
 
